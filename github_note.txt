@@ -24,4 +24,4 @@ $git commit -m "commited message" filename
 //Then  transfer file on your github Account
 $git push -u origin master
 
-$cd ../
+$cd ../ ==To change the directory
