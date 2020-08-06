@@ -1,0 +1,27 @@
+//commands==git clone, git fetch, git pull, or git push
+cd ===change dir
+cd /c ==to C
+cd /
+cd /d 
+ls ==list
+cd git/ ==to git
+cd.. ===back 1step
+
+==configure git account for github repository===
+$git config --global user.name "your name" //will set ur user name
+$git config --global user.email "your email"
+$git clone (ur URL copied)  //here you clone ur url from da github repository
+
+//to upload ur files on git
+$git add (file name)
+
+//To check status of ur files
+$git status
+
+//Then you need to commit this file
+$git commit -m "commited message" filename
+
+//Then  transfer file on your github Account
+$git push -u origin master
+
+$cd ../
